@@ -16,5 +16,3 @@ function setTime() {
   document.getElementById("datetime").innerHTML = datetime;
 }
 
-// Liitetään nappula funktioon
-document.getElementById("timeButton").onclick = setTime;
