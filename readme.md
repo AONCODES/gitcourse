@@ -8,5 +8,5 @@ Aatu Niemi
 
 Päiväkirjat 1-3
 
-Päiväkirjan tekeminen tehtävien yhteydessä
+Nyt täältä katosi se toinen README tiedosto, en tiedä minne, mutta siinä oli että tehtävät 1-7 tehty.
 
