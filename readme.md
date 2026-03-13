@@ -8,3 +8,8 @@ Tekijä: Aatu Niemi
 
 Repositoriossa on kurssin harjoitukset 1–7.
 Projektissa tehtiin HTML-sivu, CSS-tyylit ja JavaScript kellotoiminnallisuus.
+
+Oppimispäiväkirjat:
+Oppimispäiväkirja1.md
+Oppimispäiväkirja2.md
+Oppimispäiväkirja3.md
