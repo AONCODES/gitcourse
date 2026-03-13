@@ -1,15 +1,12 @@
-# Hello-ohjelma
+  # git-oppimispaivakirja
 
-Kurssi: Git versionhallinta
-SOF013AS2A-3002
-Tekijä: Aatu Niemi
+Kurssin päiväkirjat
 
-## Sisältö
+# Git version Hallinta - SOF013AS2A-3002
 
-Repositoriossa on kurssin harjoitukset 1–7.
-Projektissa tehtiin HTML-sivu, CSS-tyylit ja JavaScript kellotoiminnallisuus.
+Aatu Niemi
 
-Oppimispäiväkirjat:
-- [Oppimispäiväkirja 1](paivakirja1.md)  
-- [Oppimispäiväkirja 2](paivakirja2.md)  
-- [Oppimispäiväkirja 3](paivakirja3.md)
+Päiväkirjat 1-3
+
+Päiväkirjan tekeminen tehtävien yhteydessä
+
